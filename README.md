@@ -15,19 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <p align="left">
   <a href="https://github.com/Kino0214/Kino0214/">
     <img src="https://komarev.com/ghpvc/?username=Kino0214" alt="Kino0214" />
   </a>
-  <!--
+  
   <a href="http://twitter.com/Kino0214">
     <img height="20" src="https://img.shields.io/twitter/follow/Kino0214?label=Twitter&logo=twitter&style=flat" />
   </a>
-  -->
+  
   <a href="https://github.com/Kino0214">
     <img height="20" src="https://img.shields.io/github/followers/Kino0214?label=follow&logo=github&style=flat" />
   </a>
-  <!--
+  
+  
   <a href="https://www.reddit.com/user/Kino0214">
     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/Kino0214?label=Reddit&logo=reddit&style=flat" />
   </a>
@@ -40,5 +42,8 @@ Here are some ideas to get you started:
   <//qiita.com/Kino0214">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/contributions.svg" />
   </a>
-  -->
+  
 </p>
+-->
+
+
